@@ -21,7 +21,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "8BN90c87sf5G1536G547H6585D9959"
+      "password": "Jb4KeFn"
     },
 
     "anti-afk": {
@@ -32,7 +32,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 5,
+      "repeat-delay": 60,
 
       "messages": [
         "/tp 7 150 -16"
