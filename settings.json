@@ -1,0 +1,46 @@
+{
+  "bot-account": {
+    "username": "OpenWorldEurope", 
+    "password": "",
+    "type": "mojang"
+  },
+
+  "server": {
+    "ip": "OpenWorldEurope.aternos.me", 
+    "port": 24542,   
+    "version": "1.12.1"   
+  },
+
+  "position": {
+    "enabled": false,
+    "x": 7,
+    "y": 150,
+    "z": -16
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": true,
+      "password": "8BN90c87sf5G1536G547H6585D9959"
+    },
+
+    "anti-afk": {
+      "enabled": true,
+      "sneak": true
+    },
+
+    "chat-messages": {
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 5,
+
+      "messages": [
+        "/tp 7 150 -16"
+      ]
+    },
+
+    "chat-log": true,
+    "auto-reconnect": true,
+    "auto-recconect-delay": 5000
+  }
+}
